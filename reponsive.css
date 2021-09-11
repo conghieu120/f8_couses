@@ -1,0 +1,33 @@
+
+
+@media (max-width: 739px){
+    .nav-menu {
+        display: none;
+    }
+        
+    .footer-item {
+        text-align: center;
+    }
+    
+    .nav-right-icon {
+        display: none;
+    }
+
+    .nav-extent {
+        display: flex;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1023px) {
+    .nav-menu {
+        display: none;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1239px) {
+
+}
+
+@media (min-width: 1240px) {
+
+}
